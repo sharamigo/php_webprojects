@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CurrentWeather>
+  <Location>Munchen, Germany (EDDM) 48-21N 011-47E</Location>
+  <Time>Nov 30, 2015 - 07:50 AM EST / 2015.11.30 1250 UTC</Time>
+  <Wind> from the WSW (250 degrees) at 32 MPH (28 KT):0</Wind>
+  <Visibility> greater than 7 mile(s):0</Visibility>
+  <SkyConditions> mostly cloudy</SkyConditions>
+  <Temperature> 50 F (10 C)</Temperature>
+  <DewPoint> 41 F (5 C)</DewPoint>
+  <RelativeHumidity> 71%</RelativeHumidity>
+  <Pressure> 30.18 in. Hg (1022 hPa)</Pressure>
+  <Status>Success</Status>
+</CurrentWeather>

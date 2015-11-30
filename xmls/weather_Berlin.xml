@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CurrentWeather>
+  <Location>Berlin-Tegel, Germany (EDDT) 52-34N 013-19E 37M</Location>
+  <Time>Nov 30, 2015 - 06:50 AM EST / 2015.11.30 1150 UTC</Time>
+  <Wind> from the W (270 degrees) at 22 MPH (19 KT):0</Wind>
+  <Visibility> greater than 7 mile(s):0</Visibility>
+  <SkyConditions> mostly cloudy</SkyConditions>
+  <Temperature> 44 F (7 C)</Temperature>
+  <DewPoint> 32 F (0 C)</DewPoint>
+  <RelativeHumidity> 60%</RelativeHumidity>
+  <Pressure> 29.88 in. Hg (1012 hPa)</Pressure>
+  <Status>Success</Status>
+</CurrentWeather>

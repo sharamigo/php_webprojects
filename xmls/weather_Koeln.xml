@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CurrentWeather>
+  <Location>Koeln / Bonn, Germany (EDDK) 50-52N 007-10E 100M</Location>
+  <Time>Nov 30, 2015 - 06:50 AM EST / 2015.11.30 1150 UTC</Time>
+  <Wind> from the S (170 degrees) at 8 MPH (7 KT):0</Wind>
+  <Visibility> 4 mile(s):0</Visibility>
+  <SkyConditions> overcast</SkyConditions>
+  <Temperature> 46 F (8 C)</Temperature>
+  <DewPoint> 46 F (8 C)</DewPoint>
+  <RelativeHumidity> 100%</RelativeHumidity>
+  <Pressure> 30.03 in. Hg (1017 hPa)</Pressure>
+  <Status>Success</Status>
+</CurrentWeather>
