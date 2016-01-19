@@ -1,0 +1,114 @@
+{
+    "modules": [
+        {
+            "config": {
+                "position": [
+                    458,
+                    20
+                ]
+            },
+            "name": "New Model Object",
+            "value": {
+                "actionGroup": {
+                    "_default0_list": true,
+                    "_default1_show": true,
+                    "_default2_new_create": false,
+                    "_default3_edit_update": true,
+                    "_default4_delete": false,
+                    "customActions": []
+                },
+                "name": "NewsAbstract",
+                "objectsettings": {
+                    "addDeletedField": true,
+                    "addHiddenField": true,
+                    "addStarttimeEndtimeFields": true,
+                    "aggregateRoot": false,
+                    "categorizable": false,
+                    "description": "",
+                    "mapToTable": "tx_news_domain_model_news",
+                    "parentClass": "\\GeorgRinger\\News\\Domain\\Model\\News",
+                    "sorting": false,
+                    "type": "Entity",
+                    "uid": "1407447775334"
+                },
+                "propertyGroup": {
+                    "properties": [
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsRequired": false,
+                            "propertyName": "abstract",
+                            "propertyType": "Text",
+                            "uid": "378728191401"
+                        },
+                        {
+                            "allowedFileTypes": "",
+                            "maxItems": "1",
+                            "propertyDescription": "",
+                            "propertyIsExcludeField": true,
+                            "propertyIsRequired": false,
+                            "propertyName": "subheadline",
+                            "propertyType": "String",
+                            "uid": "905163649037"
+                        }
+                    ]
+                },
+                "relationGroup": {
+                    "relations": []
+                }
+            }
+        }
+    ],
+    "properties": {
+        "backendModules": [
+            {
+                "actions": {
+                    "controllerActionCombinations": ""
+                },
+                "description": "",
+                "key": "news",
+                "mainModule": "web",
+                "name": "news",
+                "tabLabel": "news abstract"
+            }
+        ],
+        "description": "",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 7.6.0-7.6.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "7.6.0-7.6.99",
+            "version": ""
+        },
+        "extensionKey": "news_abstract",
+        "name": "NewsAbstract",
+        "originalExtensionKey": "news_abstract",
+        "originalVendorName": "NewsAbstract",
+        "persons": [],
+        "plugins": [
+            {
+                "actions": {
+                    "controllerActionCombinations": "NewsAbstract => list,show",
+                    "noncacheableActions": "",
+                    "switchableActions": ""
+                },
+                "key": "newsabstract",
+                "name": "news_abstract"
+            }
+        ],
+        "vendorName": "NewsAbstract"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2016-01-18 01:48",
+        "extension_builder_version": "7.6.0",
+        "be_user": " (1)"
+    }
+}

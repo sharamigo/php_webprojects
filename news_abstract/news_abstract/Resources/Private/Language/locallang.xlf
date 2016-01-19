@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="messages" date="2016-01-18T13:48:09Z" product-name="news_abstract">
+		<header/>
+		<body>
+			<trans-unit id="tx_newsabstract_domain_model_newsabstract">
+				<source>News Abstract</source>
+			</trans-unit>
+			<trans-unit id="tx_newsabstract_domain_model_newsabstract.abstract">
+				<source>Abstract</source>
+			</trans-unit>
+			<trans-unit id="tx_newsabstract_domain_model_newsabstract.subheadline">
+				<source>Subheadline</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

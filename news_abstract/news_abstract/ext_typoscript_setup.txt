@@ -1,0 +1,21 @@
+
+config.tx_extbase{
+    persistence{
+        classes{
+
+            GeorgRinger\News\Domain\Model\News {
+                subclasses {
+                    Tx_NewsAbstract_NewsAbstract = NewsAbstract\NewsAbstract\Domain\Model\NewsAbstract
+					
+          		}
+            }
+            NewsAbstract\NewsAbstract\Domain\Model\NewsAbstract {
+                mapping {
+                    tableName = tx_news_domain_model_news
+                    recordType = Tx_NewsAbstract_NewsAbstract
+                }
+            }
+            
+    	}
+    }
+}

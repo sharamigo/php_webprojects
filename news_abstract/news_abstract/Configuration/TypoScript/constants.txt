@@ -1,0 +1,30 @@
+
+plugin.tx_newsabstract_newsabstract {
+	view {
+		# cat=plugin.tx_newsabstract_newsabstract/file; type=string; label=Path to template root (FE)
+		templateRootPath = EXT:news_abstract/Resources/Private/Templates/
+		# cat=plugin.tx_newsabstract_newsabstract/file; type=string; label=Path to template partials (FE)
+		partialRootPath = EXT:news_abstract/Resources/Private/Partials/
+		# cat=plugin.tx_newsabstract_newsabstract/file; type=string; label=Path to template layouts (FE)
+		layoutRootPath = EXT:news_abstract/Resources/Private/Layouts/
+	}
+	persistence {
+		# cat=plugin.tx_newsabstract_newsabstract//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}
+
+module.tx_newsabstract_news {
+	view {
+		# cat=module.tx_newsabstract_news/file; type=string; label=Path to template root (BE)
+		templateRootPath = EXT:news_abstract/Resources/Private/Backend/Templates/
+		# cat=module.tx_newsabstract_news/file; type=string; label=Path to template partials (BE)
+		partialRootPath = EXT:news_abstract/Resources/Private/Backend/Partials/
+		# cat=module.tx_newsabstract_news/file; type=string; label=Path to template layouts (BE)
+		layoutRootPath = EXT:news_abstract/Resources/Private/Backend/Layouts/
+	}
+	persistence {
+		# cat=module.tx_newsabstract_news//a; type=string; label=Default storage PID
+		storagePid =
+	}
+}
