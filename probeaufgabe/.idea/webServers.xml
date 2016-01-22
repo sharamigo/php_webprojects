@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1d12459-3b72-4d87-9673-fe7e7a6de07c" name="cremerssa" url="http://cremerssa.szlocal.de">
+        <fileTransfer host="cremerssa.szlocal.de" port="22" accessType="SFTP" password="dfdddfcedfcbdfcddfc0df9bdfc7dfc3dfc5df8e" username="sunzinet">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

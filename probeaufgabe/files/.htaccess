@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Geschuetzter Bereich"
+AuthUserFile C:/xampp5.6/htdocs/probeaufgabe/files/.htpasswd
+Require valid-user
