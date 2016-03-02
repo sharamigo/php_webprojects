@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cinemamovies SYSTEM "cinemamovies.dtd">
+<cinemamovies>
+	<movie>
+		<id>100</id>
+		<titel>Star Wars: Episode I – Die dunkle Bedrohung</titel>
+		<original_title>Star Wars: Episode I – The Phantom Menace</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>128</duration>
+		<release_year>1999</release_year>
+		<genre>Science-Fiction</genre>
+		<director>George Lucas</director>
+		<screenwriter>George Lucas</screenwriter>
+		<music>John Williams</music>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Liam Neeson: Qui-Gon Jinn
+Ewan McGregor: Obi-Wan Kenobi
+Natalie Portman: Königin Amidala (Padmé Naberrie)
+Jake Lloyd: Anakin Skywalker
+Pernilla August: Shmi Skywalker
+Frank Oz: Yoda
+Ian McDiarmid: Senator Palpatine (Darth Sidious)
+Ray Park/Peter Serafinowicz (Stimme): Darth Maul
+Hugh Quarshie: Captain Panaka
+Ahmed Best: Jar Jar Binks
+Anthony Daniels: C-3PO
+Kenny Baker: R2-D2
+Terence Stamp: Kanzler Valorum
+Brian Blessed: Boss Nass
+Andrew Secombe: Watto
+Lewis Macleod: Sebulba
+Silas Carson: Vizekönig Nute Gunray, Ki-Adi-Mundi, Lott Dodd
+Samuel L. Jackson: Mace Windu
+Keira Knightley: Sabé
+</actors>
+		<movie_poster>Star_Wars_Episode1-Poster.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>125</id>
+		<titel>Star Wars: Episode II – Angriff der Klonkrieger</titel>
+		<original_title>Star Wars: Episode II – Attack of the Clones</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>137</duration>
+		<release_year>2002</release_year>
+		<genre>Science-Fiction</genre>
+		<director>George Lucas</director>
+		<screenwriter>George Lucas</screenwriter>
+		<music>John Williams</music>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Hayden Christensen: Anakin Skywalker
+Ewan McGregor: Obi-Wan Kenobi
+Natalie Portman: Senatorin Padmé Amidala
+Christopher Lee: Count Dooku/Darth Tyranus
+Samuel L. Jackson: Mace Windu
+Frank Oz: Yoda
+Ian McDiarmid: Kanzler Palpatine/Darth Sidious
+Pernilla August: Shmi Skywalker-Lars
+Temuera Morrison: Jango Fett, Klonsoldaten
+Daniel Logan: Boba Fett
+Jimmy Smits: Senator Bail Organa
+Leeanna Walsman: Zam Wesell
+Ahmed Best: Jar Jar Binks
+Andy Secombe: Watto
+Anthony Daniels: C-3PO
+Silas Carson: Ki-Adi-Mundi, Vizekönig Nute Gunray
+</actors>
+		<movie_poster>star_wars_episode_two.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>138</id>
+		<titel>Der Herr der Ringe: Die Gefährten</titel>
+		<original_title>The Lord of the Rings: The Fellowship of the Ring</original_title>
+		<produktionsland>USA, Neuseeland</produktionsland>
+		<duration>178</duration>
+		<release_year>2001</release_year>
+		<genre>Fantasy</genre>
+		<director>Peter Jackson</director>
+		<screenwriter>Fran Walsh, Philippa Boyens, Peter Jackson</screenwriter>
+		<music>Howard Shore</music>
+		<oscars>4</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Elijah Wood: Frodo Beutlin
+Ian McKellen: Gandalf
+Sean Astin: Samweis Gamdschie
+Viggo Mortensen: Aragorn/Streicher
+Liv Tyler: Arwen Undomiel
+Sean Bean: Boromir
+Orlando Bloom: Legolas
+John Rhys-Davies: Gimli
+Christopher Lee: Saruman
+Dominic Monaghan: Meriadoc Brandybock
+Billy Boyd: Peregrin Tuk
+Cate Blanchett: Galadriel
+Hugo Weaving: Elrond
+Ian Holm: Bilbo Beutlin</actors>
+		<movie_poster>herr-ringe-gefaehrten.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>139</id>
+		<titel>Der Herr der Ringe: Die Zwei Türme</titel>
+		<original_title>The Lord of the Rings: The Two Towers</original_title>
+		<produktionsland>USA, Neuseeland</produktionsland>
+		<duration>179</duration>
+		<release_year>2002</release_year>
+		<genre>Fantasy</genre>
+		<director>Peter Jackson</director>
+		<screenwriter>Fran Walsh, Philippa Boyens, Peter Jackson</screenwriter>
+		<music>Howard Shore</music>
+		<oscars>2</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Elijah Wood: Frodo Beutlin
+Sean Astin: Samweis Gamdschie
+Viggo Mortensen: Aragorn
+Ian McKellen: Gandalf
+Dominic Monaghan: Meriadoc Brandybock
+Billy Boyd: Peregrin Tuk
+Orlando Bloom: Legolas
+John Rhys-Davies: Gimli/Baumbart (Stimme)
+Andy Serkis: Gollum/Sméagol
+Christopher Lee: Saruman
+Bernard Hill: Théoden
+Miranda Otto: Éowyn
+Karl Urban: Éomer
+Brad Dourif: Gríma Schlangenzunge
+Liv Tyler: Arwen Undomiel
+Hugo Weaving: Elrond
+David Wenham: Faramir
+Cate Blanchett: Galadriel</actors>
+		<movie_poster>DerHerrderRingeDiezweiTurme.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>140</id>
+		<titel>Der Herr der Ringe: Die Rückkehr des Königs</titel>
+		<original_title>The Lord of the Rings: The Return of the King</original_title>
+		<produktionsland>USA, Neuseeland</produktionsland>
+		<duration>201</duration>
+		<release_year>2003</release_year>
+		<genre>Fantasy</genre>
+		<director>Peter Jackson</director>
+		<screenwriter>Fran Walsh, Philippa Boyens, Peter Jackson</screenwriter>
+		<music>Howard Shore</music>
+		<oscars>11</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Viggo Mortensen: Aragorn / Elessar
+Liv Tyler: Arwen Undómiel
+Ian McKellen: Gandalf
+Christopher Lee: Saruman[4]
+Sean Bean: Boromir
+Ian Holm: Bilbo Beutlin
+Marton Csokas: Celeborn
+John Noble: Denethor
+Hugo Weaving: Elrond
+Karl Urban: Éomer
+Miranda Otto: Éowyn
+David Wenham: Faramir
+Elijah Wood: Frodo Beutlin
+Cate Blanchett: Galadriel
+John Rhys-Davies: Gimli / Baumbart (Stimme)
+Brad Dourif: Grima Schlangenzunge
+Andy Serkis: Gollum / Sméagol
+Lawrence Makoare: Gothmog / Hexenkönig
+Paul Norell: König der Toten
+Orlando Bloom: Legolas
+Dominic Monaghan: Meriadoc Brandybock
+Billy Boyd: Peregrin Tuk
+Sean Astin: Samweis Gamdschie
+Alan Howard: Stimme Saurons
+Ian Hughes: Irolas
+Bernard Hill: Théoden</actors>
+		<movie_poster>Der_Herr_der_Ringe_-_Die_R_ckkehr_des_K_nigs.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>145</id>
+		<titel>Simpsons- Der Film</titel>
+		<original_title>The Simpsons Movie</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>83</duration>
+		<release_year>2007</release_year>
+		<genre>Zeichentrick</genre>
+		<director>David Silverman, Produzent: Matt Groening</director>
+		<screenwriter>James L. Brooks, Matt Groening u.a.</screenwriter>
+		<music>Hans Zimmer</music>
+		<oscars>0</oscars>
+		<fsk>ab 6 Jahre</fsk>
+		<actors>Synchronstimmen:
+Homer Simpson: Norbert Gastell (Dan Castellaneta)
+Marge Simpson: Anke Engelke (Julie Kavner)
+Bart Simpson: Sandra Schwittau (Nancy Cartwright)
+Lisa Simpson: Sabine Bohlmann (Yeardley Smith)
+Krusty, der Clown: 	Hans-Rainer Müller (Dan Castellaneta)
+Rektor Seymour Skinner: Klaus Guth (Harry Shearer)
+Ralph Wiggum: Beate Pfeiffer (Nancy Cartwright)
+Ned Flanders: Ulrich Frank (Harry Shearer)</actors>
+		<movie_poster>simpsons_movie.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>146</id>
+		<titel>Paranormal Activity 2</titel>
+		<original_title>Paranormal Activity 2</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>91</duration>
+		<release_year>2010</release_year>
+		<genre>Horror</genre>
+		<director>Tod Williams</director>
+		<screenwriter>Michael R. Perry, Christopher B. Landon</screenwriter>
+		<music>Michael Simmonds</music>
+		<oscars>0</oscars>
+		<fsk>ab 16 Jahre</fsk>
+		<actors>Micah Sloat: Micah
+Katie Featherston: Katie
+Brian Boland: Daniel „Dan“ Rey
+Sprague Grayden: Kristi Rey
+Molly Ephraim: Ali
+Tim Clemens: Hunter
+</actors>
+		<movie_poster>paranormal2_poster_lg.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>147</id>
+		<titel>Der Fluch der Karibik - Teil 1</titel>
+		<original_title>Pirates of the Caribbean: The Curse of the Black Pearl</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>137</duration>
+		<release_year>2003</release_year>
+		<genre>Action</genre>
+		<director>Gore Verbinski</director>
+		<screenwriter>Ted Elliott, Terry Rossio</screenwriter>
+		<music>Klaus Badelt</music>
+		<oscars>1</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Johnny Depp: Captain Jack Sparrow
+Orlando Bloom: William „Will“ Turner
+Geoffrey Rush: Captain Hector Barbossa
+Keira Knightley: Elizabeth Swann
+Jack Davenport: Commodore James Norrington
+Jonathan Pryce: Gouverneur Weatherby Swann
+Kevin R. McNally: Joshamee Gibbs
+Lee Arenberg: Pintel
+Mackenzie Crook: Ragetti
+Damian O’Hare: Lt. Gillette
+Martin Klebba: Marty
+David Bailie: Cotton
+Zoë Saldaña: Anamaria
+Lauren Maher: Scarlett
+Vanessa Branch: Giselle</actors>
+		<movie_poster>FluchderKaribik-Poster02.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>148</id>
+		<titel>Banana Joe</titel>
+		<original_title>Banana Joe</original_title>
+		<produktionsland>Italien</produktionsland>
+		<duration>96</duration>
+		<release_year>1981</release_year>
+		<genre>Action</genre>
+		<director>Steno (Stefano Vanzina)</director>
+		<screenwriter>Bruno Corbucci, Bud Spencer</screenwriter>
+		<music>Oliver Onions</music>
+		<oscars>0</oscars>
+		<fsk>ab 6 Jahre</fsk>
+		<actors>Bud Spencer: Banana Joe
+Marina Langner: Dorianne
+Mario Scarpetta: Manuel
+Gianfranco Barra: Torcillo
+Enzo Garinei: Moreno
+Gunther Philipp: Sarto
+Giorgio Bracardi: Martino</actors>
+		<movie_poster>banana_joe_spencer.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>151</id>
+		<titel>Zwei Himmelhunde auf dem Weg zur Hölle</titel>
+		<original_title>Più forte, ragazzi!</original_title>
+		<produktionsland>Italien</produktionsland>
+		<duration>102</duration>
+		<release_year>1972</release_year>
+		<genre>Action</genre>
+		<director>Giuseppe Colizzi</director>
+		<screenwriter>Barbara Alberti, Giuseppe Colizzi</screenwriter>
+		<music>Guido &amp; Maurizio De Angelis </music>
+		<oscars>0</oscars>
+		<fsk>ab 16 Jahre</fsk>
+		<actors>Terence Hill: Plata
+Bud Spencer: Salud
+Reinhard Kolldehoff: Mr. Ears
+Riccardo Pizzuti: Naso
+Cyril Cusack: Matto
+Alexander Allerson: Saluds Bruder
+</actors>
+		<movie_poster>zwei_himmelhunde_auf_dem_weg_zur_hoelle.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>152</id>
+		<titel>Matrix</titel>
+		<original_title>The Matrix</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>131</duration>
+		<release_year>1999</release_year>
+		<genre>Science-Fiction</genre>
+		<director>Wachowski-Geschwister</director>
+		<screenwriter>Wachowski-Geschwister</screenwriter>
+		<music>Don Davis</music>
+		<oscars>4</oscars>
+		<fsk>ab 16 Jahre</fsk>
+		<actors>Keanu Reeves: Neo/Thomas A. Anderson
+Laurence Fishburne: Morpheus
+Carrie-Anne Moss: Trinity
+Hugo Weaving: Agent Smith
+Gloria Foster: Das Orakel
+Paul Goddard: Agent Brown
+Robert Taylor: Agent Jones
+Joe Pantoliano: Cypher
+</actors>
+		<movie_poster>matrix_ver1_.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>155</id>
+		<titel>Lara Croft: Tomb Raider</titel>
+		<original_title>Lara Croft: Tomb Raider</original_title>
+		<produktionsland>USA, UK, Japan</produktionsland>
+		<duration>100</duration>
+		<release_year>2001</release_year>
+		<genre>Action</genre>
+		<director>Simon West</director>
+		<screenwriter>Patrick Massett, John Zinman</screenwriter>
+		<music>Graeme Revell</music>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Angelina Jolie: Lara Croft
+Jon Voight: Lord Richard Croft
+Iain Glen: Manfred Powell
+Noah Taylor: Bryce
+Daniel Craig: Alex West
+Leslie Phillips: Wilson
+Christopher Barrie: Hillary</actors>
+		<movie_poster>lara_croft_tomb_raider_xlg.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>175</id>
+		<titel>James Bond 007: Skyfall</titel>
+		<original_title>James Bond 007: Skyfall</original_title>
+		<produktionsland>UK</produktionsland>
+		<duration>143</duration>
+		<release_year>2012</release_year>
+		<genre>Action</genre>
+		<director>Sam Mendes</director>
+		<screenwriter>Barbara Broccoli, Michael G. Wilson</screenwriter>
+		<music>Thomas Newman, Titellied: Adele</music>
+		<oscars>2</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Daniel Craig: James Bond („007“)
+Judi Dench: „M“
+Javier Bardem: Raoul Silva
+Ralph Fiennes: Gareth Mallory
+Naomie Harris: Eve Moneypenny
+Bérénice Marlohe: Sévérine
+Albert Finney: Kincade
+Ben Whishaw: „Q“
+Rory Kinnear: Bill Tanner</actors>
+		<movie_poster>Skyfall-Classic-Poster.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>176</id>
+		<titel>James Bond 007: Stirb an einem anderen Tag</titel>
+		<original_title>James Bond 007: Die Another Day</original_title>
+		<produktionsland>USA, UK</produktionsland>
+		<duration>133</duration>
+		<release_year>2002</release_year>
+		<genre>Action</genre>
+		<director>Lee Tamahori</director>
+		<screenwriter>Barbara Broccoli, Michael G. Wilson</screenwriter>
+		<music>David Arnold, Titelsong: Madonna</music>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Pierce Brosnan: James Bond
+Halle Berry: Jacintha „Jinx“ Johnson
+Toby Stephens: Colonel Tan-Sun Moon / Gustav Graves
+Rosamund Pike: Miranda Frost
+Rick Yune: Zao
+Will Yun Lee: Colonel Tan-Sun Moon
+Kenneth Tsang: General Moon
+Judi Dench: M
+John Cleese: Q
+Samantha Bond: Miss Moneypenny
+Colin Salmon: Charles Robinson
+Michael Madsen: Damian Falco
+Emilio Echevarría: Raoul
+Lawrence Makoare: Mr. Kil
+Ho Yi: Mr. Chang
+Madonna: Verity (Cameo-Auftritt)</actors>
+		<movie_poster>poster_james-bond-007-dieAnotherDay.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>188</id>
+		<titel>17 Mädchen</titel>
+		<original_title>17 filles</original_title>
+		<produktionsland>Frankreich</produktionsland>
+		<duration>87</duration>
+		<release_year>2011</release_year>
+		<genre>Drama</genre>
+		<director>Delphine Coulin, Mouriel Coulin</director>
+		<screenwriter>Delphine Coulin, Mouriel Coulin</screenwriter>
+		<music isnull="true"/>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Louise Grinberg: Camille
+Juliette Darche: Julia
+Roxane Duran: Florence
+Esther Garrel: Flavie
+Solène Rigot: Mathilde
+Yara Pilartz: Clémentine
+Florence Thomassin: Camilles Mutter
+Carlo Brandt: Schulleiter
+Frédéric Noaille: Florian</actors>
+		<movie_poster>17-maedchen_poster.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>192</id>
+		<titel>Kokowääh</titel>
+		<original_title>Kokowääh</original_title>
+		<produktionsland>Deutschland</produktionsland>
+		<duration>123</duration>
+		<release_year>2011</release_year>
+		<genre>Komödie</genre>
+		<director>Til Schweiger</director>
+		<screenwriter>Til Schweiger</screenwriter>
+		<music>Dirk Reichardt, Mirko Schaffer</music>
+		<oscars>0</oscars>
+		<fsk>ab 6 Jahre</fsk>
+		<actors>Til Schweiger: Henry
+Emma Schweiger: Magdalena
+Jasmin Gerat: Katharina
+Samuel Finzi: Tristan
+Meret Becker: Charlotte
+Anna Julia Kapfelsperger: Henrys Liaison Bine
+Friederike Kempter: Henrys Agentin
+Miranda Leonhardt: Katharinas Haushälterin Maria
+Mišel Mati?evi?: Filmregisseur Rob Kaufmann
+Sönke Möhring: Polizist
+Jessica Richter: Henrys Liaison Esther
+Katharina Thalbach: Patientin mit Maulsperre
+Johann von Bülow: Feuerwehrmann
+Ulrich Wickert: Moderator
+Anne-Sophie Briest: Mutter im Supermarkt
+Luna Schweiger: Tochter im Supermarkt
+Birthe Wolter: Arzthelferin
+Fahri Ogün Yard?m: Pizzabote</actors>
+		<movie_poster>Kokowaah-Poster01.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>196</id>
+		<titel>Vaterfreuden</titel>
+		<original_title>Vaterfreuden</original_title>
+		<produktionsland>Deutschland</produktionsland>
+		<duration>106</duration>
+		<release_year>2014</release_year>
+		<genre>Komödie</genre>
+		<director>Matthias Schweighöfer</director>
+		<screenwriter>Sebastian Wehlings</screenwriter>
+		<music>Martin Todsharow</music>
+		<oscars>0</oscars>
+		<fsk>ab 6 Jahre</fsk>
+		<actors>Matthias Schweighöfer: Felix
+Isabell Polak: Maren
+Tom Beck: Ralph
+Friedrich Mücke: Henne
+Natalia Belitski: Jessie
+Lina Hüesker: Leonie
+Moritz Grove: Tom
+Alexander Khuon: Norbert
+Luise Bähr: Sybille
+Katharina Schüttler: Betti
+Tim Sander: Frederic Sattelmeyer
+Detlev Buck: Dr. Parisius
+Susan Hoecke: Kara
+Margarita Broich: Dr. Metzler
+Michael Gwisdek: Vater von Felix
+Emilia Schüle: Lisa
+Gitta Schweighöfer: Hebamme</actors>
+		<movie_poster>Vaterfreuden-DE-Poster.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>200</id>
+		<titel>Stromberg - Der Film</titel>
+		<original_title>Stromberg - Der Film</original_title>
+		<produktionsland>Deutschland</produktionsland>
+		<duration>123</duration>
+		<release_year>2014</release_year>
+		<genre>Komödie</genre>
+		<director>Arne Feldhusen</director>
+		<screenwriter>Ralf Husmann</screenwriter>
+		<music/>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Christoph Maria Herbst: Bernd Stromberg
+Bjarne Mädel: Berthold „Ernie“ Heisterkamp
+Oliver Wnuk: Ulf Steinke
+Diana Staehly: Tanja Steinke (geb. Seifert)
+Milena Dreißig: Jennifer Schirrmann
+Laurens Walter: Lars Lehnhoff
+Maja Beckmann: Sabine „Sabbel“ Buhrer
+Peter Rütten: Herr Pötsch
+Carsten Meyer (Musiker): Alleinunterhalter Günni
+Michael Wittenborn: Capitol-Vorstand Klaus Klinkhammer
+Jürgen Rißmann: Hausmeister</actors>
+		<movie_poster>Stromberg_film_Plakat.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>201</id>
+		<titel>Scary Movie</titel>
+		<original_title>Scary Movie</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>88</duration>
+		<release_year>2000</release_year>
+		<genre>Komödie</genre>
+		<director>Keenen Ivory Wayans</director>
+		<screenwriter>Shawn Wayans, Marlon Wayans</screenwriter>
+		<music>David Kitay</music>
+		<oscars>0</oscars>
+		<fsk>ab 16 Jahre</fsk>
+		<actors>Anna Faris: Cindy Campbell
+Jon Abrahams: Bobby Prinze
+Shannon Elizabeth: Buffy Gilmore
+Lochlyn Munro: Greg Phillipe
+Shawn Wayans: Ray Wilkins
+Marlon Wayans: Shorty Meeks
+Regina Hall: Brenda Meeks
+Dave Sheridan: Doofy Gilmore
+Carmen Electra: Drew Decker
+Cheri Oteri: Gail Hailstorm</actors>
+		<movie_poster>scary_movie.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>202</id>
+		<titel>Rocky Balboa</titel>
+		<original_title>Rocky Balboa</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>98</duration>
+		<release_year>2006</release_year>
+		<genre>Drama</genre>
+		<director>Sylvester Stallone</director>
+		<screenwriter>Sylvester Stallone</screenwriter>
+		<music>Bill Conti</music>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Sylvester Stallone: Robert „Rocky“ Balboa, sr.
+Burt Young: Paulie Pennino
+Milo Ventimiglia: Robert Balboa, jr.
+Geraldine Hughes: Marie
+Tony Burton: Tony „Duke“ Everson
+Antonio Tarver: Mason „The Line“ Dixon
+James Francis Kelly: Steps
+Talia Shire: Adrian Balboa
+Lou DiBella: Lou DiBella
+Mike Tyson: Mike Tyson</actors>
+		<movie_poster>rockybalboa.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>205</id>
+		<titel>Rocky I</titel>
+		<original_title>Rocky I</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>114</duration>
+		<release_year>1976</release_year>
+		<genre>Action</genre>
+		<director>John G. Avildsen</director>
+		<screenwriter>Sylvester Stallone</screenwriter>
+		<music>Bill Conti</music>
+		<oscars>3</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Sylvester Stallone: Robert „Rocky“ Balboa
+Talia Shire: Adrianna „Adrian“ Pennino
+Burt Young: Paulie Pennino
+Carl Weathers: Apollo Creed
+Burgess Meredith: Michael „Mickey“ Goldmill
+Tony Burton: Tony „Duke“ Evers
+Joe Spinell: Tony Gazzo
+</actors>
+		<movie_poster>rocky_film1.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>210</id>
+		<titel>Voll normaaal</titel>
+		<original_title>Voll normaaal</original_title>
+		<produktionsland>Deutschland</produktionsland>
+		<duration>91</duration>
+		<release_year>1994</release_year>
+		<genre>Komödie</genre>
+		<director>Ralf Huettner</director>
+		<screenwriter>Tom Gerhardt</screenwriter>
+		<music>Jörg Evers</music>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Tom Gerhardt: Tommie Krause/Dieter Krause/Heinz
+Hilmi Sözer: Mario
+Gruschenka Stevens: Gabi
+Eddy Steinblock: Zuhälter Jupp
+Veronica Ferres: Carmen Krause
+Renate Dissel: Elisabeth (Lisbeth) Krause
+Uwe Fellensiek: Norbert (Nobbi)
+Dolly Buster: Gianna S.
+Katja Flint: Porschebesitzerin
+Rolf Zacher: Hütchenspieler
+Andreas Kunze: Getränkehändler
+Anthony Arndt: Hausmeister
+</actors>
+		<movie_poster>voll_normaaal.jpg</movie_poster>
+	</movie>
+	<movie>
+		<id>211</id>
+		<titel>Resturlaub</titel>
+		<original_title>Resturlaub</original_title>
+		<produktionsland>Deutschland</produktionsland>
+		<duration>98</duration>
+		<release_year>2011</release_year>
+		<genre>Komödie</genre>
+		<director>Gregor Schnitzler</director>
+		<screenwriter>Tommy Jaud</screenwriter>
+		<music>Marco Meister</music>
+		<oscars>0</oscars>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Maximilian Brückner: Peter „Pitschi“ Greulich
+Mira Bartuschek: Sabine
+Antoine Monot, Jr.: Checko
+Stephan Luca: Arne
+Jeff Burrell: Jason
+Martina Hill: Biggy-Ente
+Ivanka Brekalo: Miriam
+Dave Davis: Pfarrer Bouba
+Melanie Winiger: Luna
+Manuela Wisbeck: Heidi
+Rosetta Pedone: Luisa
+Peter Rappenglück: Pfarrer Braun
+Leonardo Nigro: Pedro
+Matthias Matschke: Stefano
+Lina Beckmann: Steffi
+Fred Stillkrauth: Seppelpeter
+</actors>
+		<movie_poster>resturlaub_film.jpg</movie_poster>
+	</movie>
+	<movie>
+	    <id>222</id>
+		<titel>Kill Bill Volume 1</titel>
+		<original_title>Kill Bill: Vol. 1</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>106</duration>
+		<release_year>2003</release_year>
+		<genre>Action</genre>
+		<director>Quentin Tarantino</director>
+		<screenwriter>Quentin Tarantino</screenwriter>
+		<music>The RZA</music>
+		<fsk>ab 18 Jahre</fsk>
+		<actors>Uma Thurman: Die Braut
+David Carradine: Bill
+Lucy Liu: O-Ren Ishii
+Daryl Hannah: Elle Driver
+Vivica A. Fox: Vernita Green
+Michael Madsen: Budd
+Sonny Chiba: Hattori Hanzo
+Chiaki Kuriyama: Gogo Yubari
+Julie Dreyfus: Sofie Fatale
+Liu Chia Hui: Johnny Mo
+</actors>
+		<movie_poster>kill_bill_01.jpg</movie_poster>
+	</movie>
+	<movie>
+	    <id>223</id>
+		<titel>Men in Black I</titel>
+		<original_title>Men in Black I</original_title>
+		<produktionsland>USA</produktionsland>
+		<duration>94</duration>
+		<release_year>1997</release_year>
+		<genre>Science-Fiction</genre>
+		<director>Barry Sonnenfeld</director>
+		<screenwriter>Ed Solomon</screenwriter>
+		<music>Danny Elfman</music>
+		<fsk>ab 12 Jahre</fsk>
+		<actors>Tommy Lee Jones: Agent K (Kay)
+Will Smith: Agent J (Jay)
+Linda Fiorentino: Dr. Laurel Weaver
+Vincent D’Onofrio: Edgar (die Schabe)
+Rip Torn: Agent Z (Zed)
+Tony Shalhoub: Jack Jeebs
+Siobhan Fallon: Beatrice
+Mike Nussbaum: Gentle Rosenberg
+Jon Gries: Nick
+Sergio Calderón: José
+Carel Struycken: Arquillianer
+Richard Hamilton: Agent D (Dee)
+</actors>
+		<movie_poster>men-in-black-poster1.jpg</movie_poster>
+	</movie>
+
+</cinemamovies>

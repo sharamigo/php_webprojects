@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT cinemamovies (movie)* >
+<!ELEMENT movie (id, titel, original_title, produktionsland, duration, release_year, genre, director, screenwriter, music?, oscars, fsk, actors, movie_poster) >
+<!ELEMENT id (#PCDATA) >
+<!ELEMENT titel (#PCDATA) >
+<!ELEMENT original_title (#PCDATA) >
+<!ELEMENT produktionsland (#PCDATA) >
+<!ELEMENT duration (#PCDATA) >
+<!ELEMENT release_year (#PCDATA) >
+<!ELEMENT genre (#PCDATA) >
+<!ELEMENT director (#PCDATA) >
+<!ELEMENT screenwriter (#PCDATA) >
+<!ELEMENT music (#PCDATA) >
+<!ELEMENT oscars (#PCDATA) >
+<!ELEMENT fsk (#PCDATA) >
+<!ELEMENT actors (#PCDATA) >
+<!ELEMENT movie_poster (#PCDATA) >
